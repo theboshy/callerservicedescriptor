@@ -1,4 +1,4 @@
 <Response>
-<Say voice="alice">Thanks for trying our documentation. Enjoy!</Say>
+<Say voice="alice">Text about lokkkkendo xd</Say>
 <Play>http://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
