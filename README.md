@@ -1,4 +1,7 @@
 # callerservicedescriptor
+Permite el envio de mensajes y llamadas mediante el API [Twilio](https://www.twilio.com) desde python 
+
+
 
 ## Install
 ```
